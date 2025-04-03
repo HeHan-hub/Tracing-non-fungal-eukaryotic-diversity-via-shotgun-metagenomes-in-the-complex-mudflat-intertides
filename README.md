@@ -100,5 +100,6 @@ cat taxid.txt \
 >     | csvtk add-header -t -n taxid,kindom,phylum,class,order,family,genus,species \
 >     | csvtk pretty -t > reformat.txt
 ```
-> **Note:** For inquiries, please [open a GitHub issue](https://github.com/HeHan-hub/Tracing-non-fungal-eukaryotic-diversity-via-shotgun-metagenomes-in-the-complex-mudflat-intertides/issues) or contact [me via email](mailto:hanhe0606@foxmail.com).  <dr>
+> **Note:** For inquiries, please [open a GitHub issue](https://github.com/HeHan-hub/Tracing-non-fungal-eukaryotic-diversity-via-shotgun-metagenomes-in-the-complex-mudflat-intertides/issues) or contact [me via email](mailto:hanhe0606@foxmail.com). 
+
 > R scripts were written and run for R v4.4.0.
